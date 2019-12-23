@@ -9,22 +9,25 @@ All other known bugs or problems can be sent to lepeshokoff200@mail.ru
 
 Reported bugs/fixes will be submitted to correction
 
-Filse List
+Files List
 ----------
-...
-./год2014
+./SaveDocuments
 
-./год2015
+./РіРѕРґ2014
 
-./год2016
+./РіРѕРґ2015
 
-./год2017
+./РіРѕРґ2016
 
-./год2018
+./РіРѕРґ2017
+
+./РіРѕРґ2018
+
+Download.py
+
+Download_data.ipynb
+
+README.md
 
 Visualization.py
 
-table for graphics.py
-
-README.md
-...
